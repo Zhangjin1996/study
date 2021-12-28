@@ -3,7 +3,7 @@
  * @Author: ZJ
  * @Date: 2021-12-09 11:40:23
  * @LastEditors: ZJ
- * @LastEditTime: 2021-12-09 16:36:04
+ * @LastEditTime: 2021-12-25 19:43:01
  */
 // Fiber 
 // 
@@ -64,7 +64,6 @@ requestIdleCallback = deadline => {
 }
 
 // 优先级策略：文本框输入 > 本次调度结束需完成的任务 > 动画过渡 > 交互反馈 > 数据更新 > 不会显示但以防将来会显示的任务
-
 
 
 
