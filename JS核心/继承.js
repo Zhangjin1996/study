@@ -3,7 +3,7 @@
  * @Author: ZJ
  * @Date: 2021-08-23 16:00:49
  * @LastEditors: ZJ
- * @LastEditTime: 2021-08-23 16:11:04
+ * @LastEditTime: 2022-03-01 15:12:35
  */
 // class实现继承
 class Animal {
@@ -33,3 +33,4 @@ function unique (arr) {
 
 es6实现
 var uniqArr = arr => [...new Set(arr)]
+

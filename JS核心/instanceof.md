@@ -3,12 +3,11 @@
  * @Author: ZJ
  * @Date: 2021-12-23 18:26:29
  * @LastEditors: ZJ
- * @LastEditTime: 2021-12-24 18:13:00
+ * @LastEditTime: 2022-02-23 11:17:09
 -->
 ## instanceof 原理，模拟实现
 什么是instanceof?你可以模拟实现一个instanceof吗？
 1、instanceof 判断对象的原型链上是否存在构造函数的原型，只能判断引用类型。
-
 2、instanceof 常用来判断A是否为B的实例
 
 ```js
